@@ -2,7 +2,7 @@
 title: "AI 生成图片的艺术魅力"
 published: 2026-04-13
 description: "本文探讨了人工智能在内容创作领域的应用和前景。"
-image: "https://images.xxapi.cn/images/acg/pc/t01d59da76b711612fc.jpg"
+image: "https://images.xxapi.cn/images/acg/pc/image_53_89b91125.jpg"
 tags: [AI, 自动化, 技术]
 category: AI 生成
 ---
