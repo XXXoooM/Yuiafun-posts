@@ -1,8 +1,8 @@
 ---
 title: "2026-08-09 AI热点新闻"
-published: 2026-08-09 10:01:19 +0800
+published: 2026-08-09 10:02:49 +0800
 description: "2026年08月09日 AI每日分享，包含实用AI技巧、优质开源项目推荐和行业发展观察"
-image: "https://images.xxapi.cn/images/acg/pc/rIJGf8NVhKYEgA9M2Fht1sWd.jpg"
+image: "https://images.xxapi.cn/images/acg/pc/8DRZaOW9zyI5I8QUHolxanoH.jpg"
 tags:
   - 每日分享
   - AI生成
