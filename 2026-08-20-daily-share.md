@@ -1,8 +1,8 @@
 ---
 title: "2026-08-20 AI工具评测"
-published: 2026-08-20 10:10:44 +0800
+published: 2026-08-20 10:16:29 +0800
 description: "2026年08月20日 AI工具评测，包含最新工具动态"
-image: "https://images.xxapi.cn/images/acg/pc/t01fafc992a5da28bfa.jpg"
+image: "https://images.xxapi.cn/images/acg/pc/GqEoxXYQwfa4EIbRhYO85GnZ.jpg"
 tags:
   - AI工具
   - 评测
