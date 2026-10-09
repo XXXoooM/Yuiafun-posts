@@ -1,8 +1,8 @@
 ---
 title: "2026-10-09 大模型动态"
-published: 2026-10-09 10:09:12 +0800
+published: 2026-10-09 10:14:17 +0800
 description: "2026年10月09日 大模型动态，包含最新技术动态"
-image: "https://images.xxapi.cn/images/acg/pc/f9UftMrl2783GCR4NPe8LlSU.jpg"
+image: "https://images.xxapi.cn/images/acg/pc/FDhNmkst6ziO03eAY6SPn09J.jpg"
 tags:
   - 大模型
   - LLM
@@ -16,7 +16,7 @@ category: "技术"
 
 ## 今日概要
 
-According to the sources, Anthropic released the latest version of its large language model, Claude 3, in March 2024, which includes versions like Haiku, Sonnet, and Opus. The Opus version in particular has shown significant improvements in reasoning, context retention, and task execution compared to its predecessors. The model's capabilities have been highlighted in various applications, including real-time customer interaction, code generation, and complex task management. The sources also mention that Anthropic plans to frequently update the Claude 3 model series and introduce new features to enhance its functionality, particularly for enterprise use cases.
+According to the sources, Anthropic released the latest version of its large language model, the Claude 3 series, on March 4, 2024. The series includes three versions: Haiku, Sonnet, and Opus. Opus is noted for its advanced capabilities in reasoning, basic mathematics, and expert-level understanding. The sources also mention that Anthropic plans to frequently update the Claude 3 model series in the coming months and introduce new features to enhance its functionality, particularly for enterprise use cases and large-scale deployments.
 
 ---
 
@@ -338,129 +338,52 @@ METR 得出的结论是：“AI 能胜任的任务时长每 7 个月翻一番”
 
 ---
 
-### 5. 刚刚，Claude Code大升级！卡帕西：LLM第三次变革 – 量子位
+### 5. 搞懂前沿AI模型:GPT、Claude和开源大语言模型｜八周成为LLM工程师：构建并部署8个LLM应用，掌握生成式AI
 
-# Claude一更新，我就想Fable
+# 搞懂前沿AI模型:GPT、Claude和开源大语言模型｜八周成为LLM工程师：构建并部署8个LLM应用，掌握生成式AI
+## Channel: 顶云AWS爱好者
+1.72K subscribers
+1 likes
 
-当然了，在各大社交媒体平台上，Claude的这次更新也引发了类似前段时间4o下线的景况。
+### Description
+111 views
+Posted: 2025-12-26
+作为AWS中国区布道者，我为您带来最全面、专业的AWS认证培训课程。所有课程均提供：
 
-在Reddit上，官方博客下面首当其冲的就是AI对评论区的总结：
+✅详细的视频教程
+✅ 实战演练
+✅ 专业技术支持
+✅ 持续更新的学习资料
 
-大多数人的意见是：我们才不在乎呢，还是把Fable重新加回来吧。
+🔥 热门课程：
+1️⃣ AWS解决方案架构师助理级 (SAA-C03) 2025版
+✅ 15小时深度培训
+✅ 实战演示
+✅ 考试通过率极高
+📚 详情：
 
-而在具体的评论中，Fable回来也成了主旋律。
+2️⃣ AWS解决方案架构师专业级 (SAP-C02) 2025版
+✅ 进阶课程
+✅ 高级架构设计
+📚 详情：
 
-不少推特网友也是表示，不要随便更新。
+3️⃣ AWS最新AI课程
+Bedrock生成式AI实战: 
+AI从业者认证 (AIF-C01): 
 
-尤其是没有Fable的消息时……
+4️⃣ 更多精品课程：
+AWS云计算入门: 
+Terraform进阶: 
+💡 限时优惠！访问以下链接了解详情：
 
-所以，大家怎么看Claude这波更新？
+👉 
+🔔 订阅频道获取免费AWS学习资源和最新课程更新！
 
-参考链接
+#AWS认证 #AWSSAA #AWSSAP #AWS架构师 #云计算 #AWSCertification #CloudComputing #AWSTraining #AWSCertified #CloudArchitect #AWSCloud #技术学习 #职业发展
 
-### 相关阅读
+Keywords: AWS认证, AWS SAA, AWS SAP, AWS Solutions Architect, 云计算, 云架构, DevOps, Amazon Web Services, AWS培训, 认证考试
 
-#### 是个公司都在用AI Agent，但大家真的用明白了吗| MEET2026圆桌论坛
-
-Agnet落地案例分享
-
-#### Claude编程支持一键共享，第一批网友已经开始晒作品了
-
-网友：OpenAI在干啥？
-
-#### Claude接管人类电脑12小时：学会摸鱼，敲着敲着代码看风景去了
-
-突破对话框走向现实世界之后……
-
-#### Manus带火的MCP，让Claude一句话自动化3D建模，网友：真·AI+应用
-
-Claude轻松打入各种专业软件
-
-#### 数字技术工人已到岗！时序大模型+Agent已掌握了工厂生产管控技术
-
-个个都是资深专家级别
-
-#### 最强编码模型Claude 4！7小时不间断写代码，连玩24小时宝可梦，GitHub已选为Copilot底层模型
-
-网友一次性用它写完俄罗斯方块
-
-### 热门文章
-
-#### AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水
-
-#### 27B模型分分钟交付网页，Qwen 3.8还是太能了
-
-#### “留给人类阻止AI的时间不多了”
-
-#### APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策
-
-#### 无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向
-
-扫码关注量子位 [...] 所有人围绕同一个Claude协作，而不是各自维护自己的上下文。
-
-随着使用时间增长，Claude还会逐渐积累组织知识。它会理解项目背景、团队惯例、技术栈偏好以及协作流程，用户不需要每次从零开始解释。
-
-在官方博客里，Anthropic这次重点强调了四个能力：共享上下文、持续记忆、主动介入和异步执行。
-
-其中最有意思的是主动介入（Ambient Mode）。
-
-开启后，Claude不再只是等待别人提问，而是会自己冒出来。
-
-它会提醒那些被忽视的重要讨论，会跟进长时间没有解决的问题，会标记需要决策的事项，也会在发现相关信息后主动通知团队。
-
-某种意义上，Claude开始具备了一种“主动工作”的能力。
-
-而异步执行则让它更像一个真正的Agent。
-
-用户布置完任务后完全可以离开Slack，Claude会自己安排执行计划，持续推进项目，并在完成后主动汇报结果。
-
-在官方的演示中，在一个名为#product-eng-launches的频道里，一位工程师Nadia提出要增加一个cadence picker功能。Claude立刻分析代码库，并给出了解决方案。
-
-整个过程都发生在Slack讨论串里，团队成员可以实时看到Claude的分析、决策和执行过程。
-
-从整个产品形态来看，Claude Tag其实已经不只是一个聊天机器人，而是成为企业内部的统一入口。
-
-人找Claude，Claude再去调GitHub、Jira、Linear、数据库、CRM等各种系统。
-
-对员工来说，未来可能不再需要记住几十个企业软件的入口，而是只需要记住一个名字：@Claude。
-
-正如TechCrunch所分析的那样，Anthropic真正想做的，不只是让Claude写代码，而是让它理解组织内部的知识、流程和协作关系，并深度嵌入企业工作流。
-
-这也是当前企业AI竞争的新方向。 [...] 目前，Claude Tag只能与Opus 4.8配合使用，Fable 5依旧没消息。
-
-Claude Tag这个方向，其实并不意料之外，之前不论是龙虾、“数字员工”还是飞书推出的AI伙伴，其实都是这个方向和趋势上的尝试。
-
-只是Claude的模型能力，依然让这次升级备受期待。
-
-打工的你，准备好迎接串联打工的AI同事了吗？
-
-# 先进团队，先用Claude？
-
-总的来说，Claude Tag和之前不少活跃在聊天软件里的Agent有点像，但这次Anthropic把它直接嵌进了Slack工作流里。
-
-用户可以在频道或讨论串中直接@Claude，让它充当团队共享的AI助手。
-
-它不仅能看到当前对话，还能理解整个讨论已经积累下来的背景信息和上下文。
-
-无论是分析数据、提交工单、整理会议纪要，还是把一长串聊天记录拆解成具体行动方案，都可以直接交给它处理。
-
-不过，Claude Tag最特别的地方并不是能聊天，而是它开始像一个真正的团队成员那样工作。
-
-用户不仅可以让它即时完成任务，还能给它安排长期工作。
-
-例如持续关注某个频道、每周自动汇总进展、标记紧急事项，或者定时向相关负责人发送提醒。
-
-任务布置完之后，即使跨越几个小时甚至几天，Claude也会持续推进，等事情完成后再主动回来@你验收成果。
-
-如果接入Claude Code，它甚至还能把Slack里的开发需求直接转化成实际工程任务，并将结果同步回原频道。
-
-就像我们开头说的，与传统AI助手最大的区别在于，Claude Tag并不是每个人各自拥有一个聊天窗口，而是整个频道共享同一个Claude。
-
-就好比，张三给Claude布置了一项任务，李四后来进入频道时可以直接看到进展并接着推进，王五再加入时也能理解整个来龙去脉。
-
-所有人围绕同一个Claude协作，而不是各自维护自己的上下文。
-
-来源：[https://www.qbitai.com/2026/06/437734.html](https://www.qbitai.com/2026/06/437734.html)
+来源：[https://www.youtube.com/watch?v=k37pAOMWJjw](https://www.youtube.com/watch?v=k37pAOMWJjw)
 
 ---
 
