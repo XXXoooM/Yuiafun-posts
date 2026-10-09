@@ -1,8 +1,8 @@
 ---
 title: "2026-10-09 大模型动态"
-published: 2026-10-09 10:03:55 +0800
+published: 2026-10-09 10:09:12 +0800
 description: "2026年10月09日 大模型动态，包含最新技术动态"
-image: "https://images.xxapi.cn/images/acg/pc/t0114e2527d9afbeea0.jpg"
+image: "https://images.xxapi.cn/images/acg/pc/f9UftMrl2783GCR4NPe8LlSU.jpg"
 tags:
   - 大模型
   - LLM
